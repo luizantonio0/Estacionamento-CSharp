@@ -26,6 +26,7 @@ O sistema permite gerenciar carros em um estacionamento, com funcionalidades com
    ```bash
    dotnet build
 3. Execute o programa
+   ```bash
    dotnet run
 
 ### Funcionalidades
