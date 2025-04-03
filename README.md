@@ -1,6 +1,6 @@
 # Estacionamento-CSharp
 Sistema de estacionamento que permite cadastrar, listar, remover veículos e retorna o valor a ser cobrado 
-# Projeto de Estacionamento e Operações Bitwise
+# Projeto de Estacionamento
 
 Este repositório contém um projetos em C#:
 
@@ -36,3 +36,12 @@ Listar Carros: Exibe todos os carros cadastrados no estacionamento.
 ### Estrutura de Classes
 Carro: Representa um carro com a propriedade Placa.
 Estacionamento: Gerencia os carros e calcula os valores cobrados.
+
+##Requisitos
+.NET SDK 9.0 ou superior.
+Visual Studio Code ou outro editor de sua preferência.
+##Autor
+Este projeto foi desenvolvido por Luiz Antonio.
+
+##Licença
+Este projeto está licenciado sob a MIT License.
