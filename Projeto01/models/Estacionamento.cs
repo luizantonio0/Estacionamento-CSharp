@@ -67,8 +67,7 @@ namespace Projeto01.models
             string placa;
             Console.Write("Insira a placa do carro que deseja remover: ");
             placa = Console.ReadLine();
-            int i=0;
-            foreach(var loop in Carros){
+            for(int i=0;i < Carros.Count; i++){
                 //Compara o valor de cada indice do vetor com a placa inserida e retorna o primeiro valor que encontrar
                 if (Carros[i].Placa.Equals(placa)){
                     Carros.RemoveAt(i);
