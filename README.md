@@ -38,10 +38,10 @@ Listar Carros: Exibe todos os carros cadastrados no estacionamento.
 Carro: Representa um carro com a propriedade Placa.
 Estacionamento: Gerencia os carros e calcula os valores cobrados.
 
-##Requisitos
+## Requisitos
 .NET SDK 9.0 ou superior.
 Visual Studio Code ou outro editor de sua preferência.
-##Autor
+## Autor
 Este projeto foi desenvolvido por Luiz Antonio.
 
 ##Licença
