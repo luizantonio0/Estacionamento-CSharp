@@ -1,0 +1,14 @@
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\bin\Debug\net9.0\Projeto01.exe
+C:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\bin\Debug\net9.0\Projeto01.deps.json
+C:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\bin\Debug\net9.0\Projeto01.runtimeconfig.json
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\bin\Debug\net9.0\Projeto01.dll
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\bin\Debug\net9.0\Projeto01.pdb
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\Projeto01.AssemblyInfoInputs.cache
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\Projeto01.AssemblyInfo.cs
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\Projeto01.csproj.CoreCompileInputs.cache
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\Projeto01.dll
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\refint\Projeto01.dll
+c:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\Projeto01.pdb
+C:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\Projeto01.genruntimeconfig.cache
+C:\Users\lantonio\Documents\VSCODE\CSharp\Projeto01\obj\Debug\net9.0\ref\Projeto01.dll
