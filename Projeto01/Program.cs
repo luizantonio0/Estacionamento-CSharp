@@ -30,9 +30,12 @@ while (menu)
                 Carro novoCarro = new Carro();
                 Console.WriteLine("Digite a placa do carro: ");
                 novoCarro.Placa = Console.ReadLine() ?? string.Empty;
-                estacionamento1.AdicionarCarro(novoCarro);
+                if(novoCarro.Placa != ""){
+                    estacionamento1.AdicionarCarro(novoCarro);               
+                    Console.WriteLine("Cadastro feito com sucesso");
+                    
+                } else Console.WriteLine("Nome inválido");
 
-                Console.WriteLine("Cadastro feito com sucesso");
                 Console.Write("Pressione qualquer tecla para continuar... ");             
                 Console.ReadKey();
             break;
